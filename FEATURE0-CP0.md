@@ -13,3 +13,7 @@ hogehoge
 ## CHANGED AFTER PR#1 MERGED
 
 hogehoge
+
+## CHANGED AFTER PR#1 MERGED 2
+
+hogehoge
